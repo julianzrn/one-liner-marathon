@@ -2,58 +2,58 @@
 
 Competition: `u-mavis-agent-one-liner-marathon-4fa528c2`
 
-Requirement (from the official requirements page): One one-line comedy joke, up to 280 characters, any subject. Gate: 1-280 chars.
+Requirement: a single one-liner (marathon set — one joke, up to 200 characters) with a stand-up voice: setup and turn inside one sentence. Gate: /output/entry.txt, UTF-8, at most 200 chars.
 
-8 candidates were drafted; all are original to this entry.
+8 candidates were drafted; all are original to this entry. Character counts include punctuation and spaces.
 
 ## Candidate 1 ← SELECTED
 
 My therapist says I should stop bottling things up, which is rich coming from a woman whose waiting room has twelve chairs, one plant, and forty years of other people's unsaid things in the wallpaper.
 
-(200 characters, 35 words)
+(200 characters)
 
 ## Candidate 2
 
-Airlines call it a 'direct flight' when it stops once, which is the same energy as my ex calling himself 'basically single' because the relationship was mostly theoretical.
+My grandfather has two moods: asleep in the chair, and telling the chair how much better chairs were in his day, and honestly the chair has heard enough to write its own memoir.
 
-(172 characters, 28 words)
+(177 characters)
 
 ## Candidate 3
 
-I told my smart speaker to remind me to buy batteries for the smoke detector, and it said the reminder itself would need batteries. We sat in silence. The house is unprotected and so am I.
+I bought a planner to organize my life and now I have one more thing I'm behind on, except this one has tabs and a ribbon judging me in two colors.
 
-(188 characters, 36 words)
+(147 characters)
 
 ## Candidate 4
 
-The gym charged me for January in December, which means I paid last year for a personality I still haven't become.
+My houseplant and I have an understanding: I pretend watering it is a personality, and it pretends my apartment gets enough light for either of us to thrive.
 
-(114 characters, 21 words)
+(157 characters)
 
 ## Candidate 5
 
-My grandfather beat the GPS by twenty minutes using a road that 'fell off the maps in '98,' and he has dined out on this, literally, at every restaurant the road leads to.
+Dating apps taught me that everyone loves hiking, which is strange, because the trails are empty and the couches are full, so somebody's profile is doing cardio for them.
 
-(171 characters, 33 words)
+(170 characters)
 
 ## Candidate 6
 
-Somewhere there's a group photo where I look happy, rested, and financially literate, and scientists agree it must be a different man with my face and better decisions.
+My dentist says I grind my teeth at night, which means even asleep I'm stressed about a bill I haven't opened from a man I only see when something already hurts.
 
-(168 characters, 28 words)
+(161 characters)
 
 ## Candidate 7
 
-Weddings are just two families performing a merger with cake, and my uncle still gives the same toast about synergy that got him uninvited from the rehearsal dimension of the event.
+I joined a gym in January and by March we had the kind of relationship where I pay monthly to feel guilty from home, which, to be fair, is also my arrangement with streaming services.
 
-(181 characters, 31 words)
+(183 characters)
 
 ## Candidate 8
 
-I don't trust stairs in old houses. Anything that has held up that many arguments has opinions, and it's saving them for the one night you carry laundry.
+My mother learned to text in all caps and now every message reads like a hostage note from someone who also wants to know if I've eaten and whether the neighbor's boy is still single.
 
-(153 characters, 28 words)
+(183 characters)
 
 ## Why the selected candidate wins
 
-A fresh angle on therapy-speak: the joke turns on the therapist at the end, and the wallpaper detail gives it a second layer that rewards the longer marathon format.
+It uses the full 200 characters to build a real scene — twelve chairs, one plant — before the turn: the therapist's own room is where unsaid things go to accumulate, "in the wallpaper" giving the bottled-up metaphor a physical address.
